@@ -1,12 +1,11 @@
 /*
 * Base structure
 */
-
 html,
 body {
     height: 100%;
-    /*background-color: #333;*/
 }
+
 body {
     color: #333;
     text-align: center;
@@ -24,7 +23,7 @@ body {
 
 .site-wrapper-inner {
     display: table-cell;
-    vertical-align: top;
+    vertical-align: middle;
 }
 
 .cover-container {
@@ -69,6 +68,10 @@ body {
 .social li a {
     font-size: 28px;
     text-decoration: none;
+}
+
+.social li a.fa-github {
+    color: #333333;
 }
 
 .social li a.fa-envelope-o {

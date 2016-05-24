@@ -1,0 +1,20 @@
+- Use the fullpage plugin
+- add the following sections
+    - brief description about me
+    - skill levels (PHP, NodeJS, CSS, Javascript, SQL, *UNIX Administration)
+    - Technologies that I use
+        - PHP
+            - Laravel
+            - PHPUnit
+            - CodeIgniter
+        - NodeJS
+            - Express JS
+            - Gulp
+            - Grunt
+            - Bower
+        - CSS
+            - SASS
+        - SQL
+            - MySQL
+            - MariaDB
+    - Links on where to find me
